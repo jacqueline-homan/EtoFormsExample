@@ -1,0 +1,1 @@
+/Users/chet/code/scratch/EtoFormsExample/EtoFormsExample/obj/x86/Debug/EtoFormsExample.fsprojResolveAssemblyReference.cache
