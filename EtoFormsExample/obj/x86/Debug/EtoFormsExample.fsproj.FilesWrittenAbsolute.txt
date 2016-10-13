@@ -1,0 +1,10 @@
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Eto.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Portable.Xaml.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Eto.Serialization.Xaml.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Eto.Wpf.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Newtonsoft.Json.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Eto.Serialization.Json.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Eto.WinForms.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Eto.Gtk2.dll
+/home/jacque/Projects/F-sharp/EtoFormsExample/EtoFormsExample/bin/Debug/Eto.Gtk3.dll
