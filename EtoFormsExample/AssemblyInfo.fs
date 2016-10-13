@@ -9,7 +9,6 @@ open System.Runtime.CompilerServices
 [<assembly: AssemblyProduct("")>]
 [<assembly: AssemblyCopyright("Jacqueline S. Homan")>]
 [<assembly: AssemblyTrademark("")>]
-[<assembly: AssemblyPresentationFrameworkElement (culture="neutral", PublicKeyToken="31bf3856ad364a35") Version = 4.0.0.0)>]
 
 // The assembly version has the format {Major}.{Minor}.{Build}.{Revision}
 
